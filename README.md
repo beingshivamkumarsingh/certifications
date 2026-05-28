@@ -9,7 +9,7 @@ This repository contains my professional certifications related to Data Science,
 - Python Certification – Coursera  
 - Data Structures & Algorithms (Java) – Apna College  
 - Computer Vision Certification – Krish Naik  
-
+- Full Stack Web Development - Apna College
 ## 📌 Note
 All certificates are uploaded as proof of completion and learning.
 
